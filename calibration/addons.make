@@ -1,0 +1,6 @@
+ofxCv
+ofxKinectProjectorToolkitV2
+ofxMultiKinectV2
+ofxSecondWindow
+ofxTurboJpeg
+ofxOpenCv
