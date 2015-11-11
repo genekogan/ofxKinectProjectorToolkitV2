@@ -1,8 +1,8 @@
-ofxGui
-ofxOpenCv
 ofxCv
+ofxGui
 ofxKinectProjectorToolkitV2
 ofxLayerMask
 ofxMultiKinectV2
+ofxOpenCv
 ofxSecondWindow
 ofxTurboJpeg
